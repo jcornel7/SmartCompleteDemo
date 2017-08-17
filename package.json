@@ -1,22 +1,23 @@
 {
   "name": "smartcompletedemo",
   "version": "1.0.0",
-  "description": "SmartCompleteDemo",
-  "main": "index.html",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jcornel7/SmartCompleteDemo.git"
   },
-  "author": "Jason M. Cornellier",
+  "author": "",
   "license": "ISC",
-  "dependencies": (
-	"express": "4.14.1",
-	"body-parser": "~1.9.2"
   "bugs": {
     "url": "https://github.com/jcornel7/SmartCompleteDemo/issues"
   },
-  "homepage": "https://github.com/jcornel7/SmartCompleteDemo#readme"
+  "homepage": "https://github.com/jcornel7/SmartCompleteDemo#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
