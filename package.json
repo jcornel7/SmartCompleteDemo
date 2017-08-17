@@ -1,0 +1,19 @@
+{
+  "name": "smartcompletedemo",
+  "version": "1.0.0",
+  "description": "SmartCompleteDemo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcornel7/SmartCompleteDemo.git"
+  },
+  "author": "Jason M. Cornellier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcornel7/SmartCompleteDemo/issues"
+  },
+  "homepage": "https://github.com/jcornel7/SmartCompleteDemo#readme"
+}
