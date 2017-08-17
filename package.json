@@ -12,6 +12,9 @@
   },
   "author": "Jason M. Cornellier",
   "license": "ISC",
+  "dependencies": (
+	"express": "4.14.1",
+	"body-parser": "~1.9.2"
   "bugs": {
     "url": "https://github.com/jcornel7/SmartCompleteDemo/issues"
   },
